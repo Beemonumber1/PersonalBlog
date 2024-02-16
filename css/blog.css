@@ -1,0 +1,10 @@
+.grid-container {
+    display: grid;
+	gap: 6px;
+	grid-template-areas:
+    "nav-bar nav-bar"
+    "post-1 post-1"
+    "post-2 post-2"
+    "post-3 post-3"
+    "post-4 post-4"
+}
